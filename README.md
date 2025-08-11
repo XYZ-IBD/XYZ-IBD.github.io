@@ -1,9 +1,3 @@
 # XYZ-IBD
 
-## About
-
-No description, website, or topics provided.
-
-### Resources
-
-Readme
+Homepage of the XYZ-IBD dataset.
